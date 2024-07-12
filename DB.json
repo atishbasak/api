@@ -1,0 +1,37 @@
+{
+    "foods":[
+        {
+            "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F36%2F123536-050-95CB0C6E%2FVariety-fruits-vegetables.jpg&tbnid=rMZ8I5b2kc3W3M&vet=12ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygBegQIARBr..i&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Ftopic%2Ffood&docid=DJp6ra_owrcaaM&w=1600&h=1068&q=food&ved=2ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygBegQIARBr",
+            "title":"chicken",
+            "rating":"4.5",
+            "name":"chilichickk",
+            "foodDestination":"nadia",
+            "price":"456",
+            "numberOfPeople":"for one",
+            "deliveryTime":"45",
+            "distance":"3.2"
+        },
+        {
+            "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.eatingwell.com%2Fthmb%2Fm5xUzIOmhWSoXZnY-oZcO9SdArQ%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Farticle_291139_the-top-10-healthiest-foods-for-kids_-02-4b745e57928c4786a61b47d8ba920058.jpg&tbnid=BBLj-HfUEa2AkM&vet=12ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygDegQIARBv..i&imgrefurl=https%3A%2F%2Fwww.eatingwell.com%2Farticle%2F291139%2Fthe-top-10-healthiest-foods-for-kids%2F&docid=mT5et_np6aLWwM&w=1500&h=1001&q=food&ved=2ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygDegQIARBv",
+            "title":"chhjf",
+            "rating":"4.6",
+            "name":"burger",
+            "foodDestination":"nadiaaa",
+            "price":"65",
+            "numberOfPeople":"for two",
+            "deliveryTime":"56",
+            "distance":"4.3"
+        },
+        {
+            "img":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.immediate.co.uk%2Fproduction%2Fvolatile%2Fsites%2F30%2F2023%2F06%2FUltraprocessed-food-58d54c3.jpg%3Fquality%3D90%26resize%3D440%2C400&tbnid=6WNOj-Q91v-ULM&vet=12ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygEegQIARBx..i&imgrefurl=https%3A%2F%2Fwww.bbcgoodfood.com%2Fhowto%2Fguide%2Fwhat-are-ultra-processed-foods&docid=n_v7rx7s2yCgmM&w=440&h=400&q=food&ved=2ahUKEwj5sfK8nKGHAxVHrGMGHYkMCIoQMygEegQIARBx",
+            "title":"hdhh",
+            "rating":"8.5",
+            "name":"fdfgg",
+            "foodDestination":"dgdsg",
+            "price":"755",
+            "numberOfPeople":"for three",
+            "deliveryTime":"56",
+            "distance":"8.2"
+        }
+    ]
+}
